@@ -5,5 +5,12 @@
 /Users/a.temirov/CLionProjects/Asilbek-Cyberboy/cmake-build-debug/CMakeFiles/problem7.dir
 /Users/a.temirov/CLionProjects/Asilbek-Cyberboy/cmake-build-debug/CMakeFiles/problem8.dir
 /Users/a.temirov/CLionProjects/Asilbek-Cyberboy/cmake-build-debug/CMakeFiles/problem9.dir
+/Users/a.temirov/CLionProjects/Asilbek-Cyberboy/cmake-build-debug/CMakeFiles/loop1.dir
+/Users/a.temirov/CLionProjects/Asilbek-Cyberboy/cmake-build-debug/CMakeFiles/loop3.dir
+/Users/a.temirov/CLionProjects/Asilbek-Cyberboy/cmake-build-debug/CMakeFiles/loop4.dir
+/Users/a.temirov/CLionProjects/Asilbek-Cyberboy/cmake-build-debug/CMakeFiles/loop5.dir
+/Users/a.temirov/CLionProjects/Asilbek-Cyberboy/cmake-build-debug/CMakeFiles/loop6.dir
+/Users/a.temirov/CLionProjects/Asilbek-Cyberboy/cmake-build-debug/CMakeFiles/loop7.dir
+/Users/a.temirov/CLionProjects/Asilbek-Cyberboy/cmake-build-debug/CMakeFiles/loop8.dir
 /Users/a.temirov/CLionProjects/Asilbek-Cyberboy/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/a.temirov/CLionProjects/Asilbek-Cyberboy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
